@@ -1,5 +1,6 @@
 package Class_2;
 
+// Exercise 3 - From PDF found on Moodle.
 public class Exercise3 {
 
     public static void main(String[] args) {
